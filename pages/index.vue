@@ -1,5 +1,5 @@
 <template>
-  <Tutorial />
+  <home-component />
 </template>
 
 <script>
